@@ -17,7 +17,7 @@ List of companies in Paris that hires people who don't speak French.
 | Dataiku | Dataiku DSS - Collaborative data science software | |
 | Dashlane | Password management software | Seems company language is French, but they are open to hire English speaking engineers. |
 | DataDog | Monitoring services | |
-
+| Deezer | Music streaming service | |
 
 # Collaboration
 Send a PR, if there is a mistake, or you want to add some companies.
