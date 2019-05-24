@@ -15,6 +15,8 @@ List of companies in Paris that hires people who don't speak French.
 | Vestiaire Collective | e-Commerce | |
 | SoftBank Robotics | Robots | The job description says French is not mandatory, but the recruiter reaches you out in French, and ignores you if you respond in English. |
 | Dataiku | Dataiku DSS - Collaborative data science software | |
+| Dashlane | Password management software | Seems company language is French, but they are open to hire English speaking engineers. |
+| DataDog | Monitoring services | |
 
 
 # Collaboration
