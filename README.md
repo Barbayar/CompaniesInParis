@@ -11,6 +11,7 @@ List of companies in Paris that hires people who don't speak French.
 | Apple | OS & portable devices | |
 | Ubisoft | Video Games | |
 | Darewise Entertainment | Video Games | |
+| [Kaiko](https://www.kaiko.com/) | Digital assets market data | | 
 | MathWorks | MATLAB & Simulink | |
 | Vestiaire Collective | e-Commerce | |
 | SoftBank Robotics | Robots | The job description says French is not mandatory, but their recruiter reaches you out in French, and ignores you if you respond in English. |
